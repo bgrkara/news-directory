@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="167" viewBox="0 0 746 167">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 100px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 141.667px;
+      }
+
+      .cls-3 {
+        opacity: 0.37;
+      }
+    </style>
+  </defs>
+  <text id="Uruntakip" class="cls-1" x="482" y="123"><tspan x="482">Uruntakip</tspan></text>
+  <text id="U" class="cls-1" x="87" y="122"><tspan x="87">U</tspan></text>
+  <text id="_--" data-name="--" class="cls-2" transform="translate(76.185 99.889) rotate(-43.627)"><tspan x="0">-</tspan></text>
+  <text id="_--_kopya" data-name="-- kopya" class="cls-2" transform="translate(123.185 99.889) rotate(-43.627)"><tspan x="0">-</tspan></text>
+  <ellipse id="Elips_1" data-name="Elips 1" class="cls-3" cx="83.5" cy="83.5" rx="80.5" ry="83.5"/>
+</svg>
