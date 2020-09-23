@@ -4,7 +4,9 @@ Demo : [gazetebul.net](https://gazetebul.net)
 ### İNDİRME İŞLEMİ SONRASI YAPILACAKLAR
 
 - Dosyaları indiriniz.
-- SQL dosyası içerisindeki `gazetebul.sql` veritabanı oluşturarak aktarınız.
+- SQL dosyası içerisindeki `data.sql`'i veritabanı oluşturarak aktarınız.
 - `application/config/database.php` dosyası ile database bilgilerinizi düzenleyin.
+- `application/config/config.php` dosyası üzerinde `$config['base_url'] = 'siteadi.com';` base_url düzenlemesi yapınız.
+
 
 
