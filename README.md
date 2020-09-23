@@ -12,4 +12,4 @@ Demo : [gazetebul.net](https://gazetebul.net)
 
 
 
-<img src="/assets/image/gazetebul.jpg" width="800" alt="Gazetebul">
+<img src="https://raw.githubusercontent.com/bgrkara/news-directory/master/assets/images/gazetebul.jpg" width="800" alt="Gazetebul">
