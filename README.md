@@ -12,3 +12,4 @@ Demo : [gazetebul.net](https://gazetebul.net)
 
 
 
+![Gazetebul](/assets/images/gazetebul.jpg)
