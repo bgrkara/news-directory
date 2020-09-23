@@ -12,4 +12,4 @@ Demo : [gazetebul.net](https://gazetebul.net)
 
 
 
-![Gazetebul](/assets/images/gazetebul.jpg)
+![Gazetebul](https://firebasestorage.googleapis.com/v0/b/hosting-8c51b.appspot.com/o/gazetebul.mp4?alt=media&token=6a44955f-bf1f-4dc6-ac9e-d5d996edce72)
