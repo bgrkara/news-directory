@@ -1,7 +1,7 @@
 # News Directory
 Dizin Sistemi Üzerinde Gazetelerin Listelenmesi Amaçlı Yapılmıştır.<br />
 Demo : [gazetebul.net](https://gazetebul.net)
-### İNDİRME İŞLEMİ SONRASI YAPILACAKLAR
+### İşlemler
 
 - Dosyaları indiriniz.
 - SQL dosyası içerisindeki `data.sql`'i veritabanı oluşturarak aktarınız.
